@@ -1,0 +1,70 @@
+[
+  {
+    "author": "Arthur Conan Doyle",
+    "bookTitle": "The Adventure of the Engineer's Thumb",
+    "publicationYear": "1892",
+    "bookGenre": "Detective"
+  },
+  {
+    "author": "Lewis Carroll",
+    "bookTitle": "Alice's Adventures in Wonderland",
+    "publicationYear": "1865",
+    "bookGenre": "Children's literature"
+  },
+  {
+    "author": "Robert C. Martin",
+    "bookTitle": "Clean Code: A handbook of agile software craftsmanship",
+    "publicationYear": "2008",
+    "bookGenre": "Programming"
+  },
+  {
+    "author": "Ilf and Petrov",
+    "bookTitle": "The Twelve Chairs",
+    "publicationYear": "1928",
+    "bookGenre": "Novel"
+  },
+  {
+    "author": "Charlotte Bronte",
+    "bookTitle": "Jane Eyre",
+    "publicationYear": "1847",
+    "bookGenre": "Novel"
+  },
+  {
+    "author": "Agatha Christie",
+    "bookTitle": "Murder in Mesopotamia",
+    "publicationYear": "1936",
+    "bookGenre": "Detective"
+  },
+  {
+    "author": "Jamie Oliver",
+    "bookTitle": "Jamie's 30-Minute Meals",
+    "publicationYear": "2010",
+    "bookGenre": "Cooking"
+  },
+  {
+    "author": "Mark Twain",
+    "bookTitle": "The Adventures of Tom Sawyer",
+    "publicationYear": "1876",
+    "bookGenre": "Children's literature"
+  },
+  {
+    "author": "Mikhail Bulgakov",
+    "bookTitle": "A Young Doctor's Notebook",
+    "publicationYear": "1926",
+    "bookGenre": "Story cycle"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "bookTitle": "War and Peace",
+    "publicationYear": "1869",
+    "bookGenre": "Historical novel"
+  }
+]
+
+
+
+
+
+
+
+
